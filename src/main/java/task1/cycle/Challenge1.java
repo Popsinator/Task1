@@ -1,5 +1,8 @@
 package task1.cycle;
 
+/**
+ * Объявить переменные всех вам известных типов и вывести их значения на экран.
+ */
 public class Challenge1 {
 
     static byte bt;

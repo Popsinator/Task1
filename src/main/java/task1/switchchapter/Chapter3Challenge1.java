@@ -2,6 +2,10 @@ package task1.switchchapter;
 
 import java.util.Scanner;
 
+/**
+ * Необходимо написать программу, где бы пользователю предлагалось ввести число на выбор: 7, 3 или 2,
+ * а программа должна сказать, какое число ввёл пользователь: 7, 3, или 2.
+ */
 public class Chapter3Challenge1 {
 
     public static void outputNumberWithSwitch() {

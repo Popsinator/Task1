@@ -1,5 +1,9 @@
 package task1.cycle;
 
+/**
+ * Написать программу, которая вам уменьшает зп с $10000 до $0 каждый месяц,
+ * используя циклы while/ do ... while, for. (Все три реализации).
+ */
 public class Challenge4 {
 
     public static int decrease = 1000;

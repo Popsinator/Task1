@@ -2,6 +2,10 @@ package task1.ifElse;
 
 import java.util.Scanner;
 
+/**
+ * Необходимо написать программу, где бы пользователю предлагалось ввести число на выбор: 5, 4 или 1,
+ * а программа должна сказать, какое число ввёл пользователь: 5, 4, или 1.
+ */
 public class Chapter2Challenge1 {
 
     public static void outputNumber() {

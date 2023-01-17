@@ -1,5 +1,9 @@
 package task1.cycle;
 
+/**
+ * Написать программу, которая увеличивает вам зарплату каждый месяц на $1000,
+ * используя циклы while/ do ... while, for. (Все три реализации)
+ */
 public class Challenge3 {
 
     public static int increase = 1000;
